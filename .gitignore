@@ -24,3 +24,9 @@ yarn-error.log*
 
 # Claude Code worktrees
 .claude/worktrees/
+
+# Environment / secrets
+.env
+
+# Uploaded blueprints (temp)
+server/uploads/
